@@ -1,4 +1,4 @@
 velotag
 =======
 
-A bike tag competition
+A bike tag competition app
